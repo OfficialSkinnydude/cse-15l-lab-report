@@ -11,4 +11,11 @@ You should now have a display like this:
 ![Image](VSCode.png)
 Yours might look a bit different but it shouldn't be a problem.
 ## Interacting With the Terminal 
-Alright, now that we have VS Code, we can access the terminal. To do so, 
+Alright, now that we have VS Code, we can access the terminal. To do so, go to the top and click onn terminal. A drop down should appear, click on 
+new terminal.
+![Image](VSCode1.png)
+Great! Now you have your terminal open. You will now type in your cs15l ssh account. In my case, it is this one: ssh cs15lsp23dr@ieng6.ucsd.edu
+Everything should be the same except for the "dr". You should have your own two letters. Ater typing that command, it will ask for your password that
+you made for the cs15lsp23 account. Note that when you are typing your password, the characters will not show and that is normal. After you input your password, you should see this prompt on your terminal. 
+
+
