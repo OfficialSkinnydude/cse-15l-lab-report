@@ -28,7 +28,11 @@ Here is a list of commands:
 * `ls <directory>`
 * `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
 * `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
-Here is an example of me running `ls -lat`
-![Image](
+Here is an example of me running `ls -lat`:
 
-
+![Image](VSCode4.png)
+## How to Exit
+To exit, simply hold ctrl and press d. The terminal will output `Connection to ieng6.ucsd.edu closed.`
+## Conclusion
+ssh is very simple to do. All you need is VSCode to have a terminal open, copy and paste some commands, and boom, you have the information you ask for. 
+Congratulations and havd fun using ssh! 
