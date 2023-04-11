@@ -8,4 +8,7 @@ First, click on this link [Link](https://code.visualstudio.com/).
 This link will take you to the official VS Code webiste where it gives you the option to download the program to your computer. Choose the corect operating
 system and download. Extract the .zip file and congratulations, you now have VS Code. Easy peasy lemon squeezy.
 You should now have a display like this:
-![Image](channels4_profile.jpeg)
+![Image](VSCode.png)
+Yours might look a bit different but it shouldn't be a problem.
+## Interacting With the Terminal 
+Alright, now that we have VS Code, we can access the terminal. To do so, 
