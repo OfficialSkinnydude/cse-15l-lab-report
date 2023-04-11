@@ -17,5 +17,18 @@ new terminal.
 Great! Now you have your terminal open. You will now type in your cs15l ssh account. In my case, it is this one: ssh cs15lsp23dr@ieng6.ucsd.edu
 Everything should be the same except for the "dr". You should have your own two letters. Ater typing that command, it will ask for your password that
 you made for the cs15lsp23 account. Note that when you are typing your password, the characters will not show and that is normal. After you input your password, you should see this prompt on your terminal. 
+![Image](VSCode3.png)
+## Running Comands
+Running commands is pretty simple. Copy and paste some of the commands to get the information you wish to recieve. 
+Here is a list of commands:
+* `cd ~`
+* `cd'`
+* `ls -lat`
+* `ls -a`
+* `ls <directory>`
+* `cp /home/linux/ieng6/cs15lsp23/public/hello.txt ~/`
+* `cat /home/linux/ieng6/cs15lsp23/public/hello.txt`
+Here is an example of me running `ls -lat`
+![Image](
 
 
